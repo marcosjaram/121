@@ -1,3 +1,3 @@
 # Dash
-[archivo](FEconApp.html)
+[archivo](Econ11.R)
 
